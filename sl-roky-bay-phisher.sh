@@ -153,27 +153,27 @@ kill_pid() {
 ## Banner
 banner() {
 	cat <<- EOF
-		${ORANGE}
-		${ORANGE} ______      _     _     _               
-		${ORANGE}|___  /     | |   (_)   | |              
-		${ORANGE}   / / _ __ | |__  _ ___| |__   ___ _ __ 
-		${ORANGE}  / / | '_ \| '_ \| / __| '_ \ / _ \ '__|
-		${ORANGE} / /__| |_) | | | | \__ \ | | |  __/ |   
-		${ORANGE}/_____| .__/|_| |_|_|___/_| |_|\___|_|   
-		${ORANGE}      | |                                
-		${ORANGE}      |_|                ${RED}Version : 2.2
+		${RED}
+		${RED} ______      _     _     _               
+		${RED}|___  /     | |   (_)   | |              
+		${RED}   / / _ __ | |__  _ ___| |__   ___ _ __ 
+		${RED}  / / | '_ \| '_ \| / __| '_ \ / _ \ '__|
+		${RED} / /__| |_) | | | | \__ \ | | |  __/ |   
+		${RED}/_____| .__/|_| |_|_|___/_| |_|\___|_|   
+		${RED}      | |                                
+		${RED}      |_|                ${RED}Version : 2.2
 
-		${GREEN}[${WHITE}-${GREEN}]${CYAN} Tool Created by htr-tech (tahmid.rayat)${WHITE}
+		${RED}[${BLACK}-${GREEN}]${CYAN} Tool Created by sl-roky-bay-phisher (tahmid.rayat)${WHITE}
 	EOF
 }
 
 ## Small Banner
 banner_small() {
 	cat <<- EOF
-		${BLUE}
-		${BLUE}  ░▀▀█░█▀█░█░█░▀█▀░█▀▀░█░█░█▀▀░█▀▄
-		${BLUE}  ░▄▀░░█▀▀░█▀█░░█░░▀▀█░█▀█░█▀▀░█▀▄
-		${BLUE}  ░▀▀▀░▀░░░▀░▀░▀▀▀░▀▀▀░▀░▀░▀▀▀░▀░▀${WHITE} 2.2
+		${GEEN}
+		${GREEN}  ░▀▀█░█▀█░█░█░▀█▀░█▀▀░█░█░█▀▀░█▀▄
+		${GREEN}  ░▄▀░░█▀▀░█▀█░░█░░▀▀█░█▀█░█▀▀░█▀▄
+		${GREEN}  ░▀▀▀░▀░░░▀░▀░▀▀▀░▀▀▀░▀░▀░▀▀▀░▀░▀${RED} 2.2
 	EOF
 }
 
