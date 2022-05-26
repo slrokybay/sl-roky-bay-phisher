@@ -1,4 +1,4 @@
-<!-- Zphisher -->
+<!-- sl-roky-bay-phisher -->
 
 <p align="center">
 
@@ -53,7 +53,7 @@ $ bash sl-roky-bay-phisher.sh
 ### Find Me on :
 <p align="left">
   
-  <a href="https://wa.me/+94775643433" target="_blank"><img src="https://images.app.goo.gl/QDepNVAv98b45yxB6"></a>
+  <a href="https://wa.me/+94775643433" target="_blank"><img src="https://whatsapp.com"></a>
 
 </p>
 
