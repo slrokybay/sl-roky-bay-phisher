@@ -53,7 +53,7 @@ $ bash sl-roky-bay-phisher.sh
 ### Find Me on :
 <p align="left">
   
-  <a href="https://wa.me/+94775643433" target="_blank"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vecteezy.com%2Ffree-vector%2Fwhatsapp-logo&psig=AOvVaw2BH4KOSi-j7VqFinAEcNOv&ust=1653623394960000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCMjFuq-h_PcCFQAAAAAdAAAAABAD"></a>
+  <a href="https://wa.me/+94775643433" target="_blank"><img src="https://images.app.goo.gl/QDepNVAv98b45yxB6"></a>
 
 </p>
 
